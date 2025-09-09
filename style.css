@@ -1,0 +1,13 @@
+body {
+    background-color: darkmagenta;
+    color:antiquewhite
+}
+
+h1 {
+    font-size: 30px;
+}
+
+p { 
+   color: darkturquoise;
+   font-size: 16px;
+}
