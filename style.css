@@ -1,6 +1,14 @@
 body {
-    background-color: darkmagenta;
-    color:antiquewhite
+    background-color: darkmagenta;  /* cor de fundo*/
+    color:antiquewhite /* cor da letra*/
+    margin: 0px; /*espaco antes da borda*/
+}
+
+header { 
+    border: solid 2px purple;
+    padding: 20px;
+    font-size: 32px;
+    color: aliceblue;
 }
 
 h1 {
