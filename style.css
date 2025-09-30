@@ -11,6 +11,18 @@ header {
     color: aliceblue;
 }
 
+section{ 
+    background-color:#b9012f ;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.CHAMADA-TEXTO {
+    margin-right: 5%;
+}
+
 h1 {
     font-size: 30px;
 }
